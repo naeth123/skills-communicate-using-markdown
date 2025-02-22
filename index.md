@@ -1,6 +1,7 @@
-# H1 Header
-## H2 Header 
+# H1 Markdown Tutorial 
+## H2 Yaktocat 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
